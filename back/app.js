@@ -1,6 +1,6 @@
 //imports
 const express = require("express");
-const routeList = require("./routes/list");
+const routeList = require("./routes/listRoute");
 
 //aplicação express
 const app = express();
